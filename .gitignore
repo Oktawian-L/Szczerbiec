@@ -360,3 +360,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+*.dll
+*.pdb
+*.cache
+Szczerbiec/obj/Debug/netcoreapp3.1/Szczerbiec.dll
+Szczerbiec/obj/Debug/netcoreapp3.1/Szczerbiec.pdb
