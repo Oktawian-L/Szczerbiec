@@ -1,0 +1,13 @@
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\bin\Debug\netcoreapp3.1\Szczerbiec.exe
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\bin\Debug\netcoreapp3.1\Szczerbiec.deps.json
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\bin\Debug\netcoreapp3.1\Szczerbiec.runtimeconfig.json
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\bin\Debug\netcoreapp3.1\Szczerbiec.runtimeconfig.dev.json
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\bin\Debug\netcoreapp3.1\Szczerbiec.dll
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\bin\Debug\netcoreapp3.1\Szczerbiec.pdb
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.csprojAssemblyReference.cache
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.csproj.CoreCompileInputs.cache
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.AssemblyInfoInputs.cache
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.AssemblyInfo.cs
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.dll
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.pdb
+C:\GiT\Szczerbiec\Szczerbiec\Szczerbiec\obj\Debug\netcoreapp3.1\Szczerbiec.genruntimeconfig.cache
