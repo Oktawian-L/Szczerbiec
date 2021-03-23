@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GiT\\Szczerbiec\\Szczerbiec\\Szczerbiec\\Szczerbiec.csproj",
+      "projectUniqueName": "C:\\GiT\\Szczerbiec\\Szczerbiec\\Szczerbiec.csproj",
       "projectName": "Szczerbiec",
-      "projectPath": "C:\\GiT\\Szczerbiec\\Szczerbiec\\Szczerbiec\\Szczerbiec.csproj",
+      "projectPath": "C:\\GiT\\Szczerbiec\\Szczerbiec\\Szczerbiec.csproj",
       "packagesPath": "C:\\Users\\Optimus\\.nuget\\packages\\",
-      "outputPath": "C:\\GiT\\Szczerbiec\\Szczerbiec\\Szczerbiec\\obj\\",
+      "outputPath": "C:\\GiT\\Szczerbiec\\Szczerbiec\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

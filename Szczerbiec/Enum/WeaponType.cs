@@ -8,6 +8,14 @@ namespace Szczerbiec.Enum
     {
         Sword = 1,
 
-        Axe = 2
+        Axe = 2,
+
+        Dagger = 3,
+
+        Spear = 4,
+
+        Hammer = 5,
+
+        Bow = 6
     }
 }
